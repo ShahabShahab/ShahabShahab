@@ -1,18 +1,16 @@
-### Hi there 👋
+# Hello, I'm Shahab  👋
 
-I’m currently working on a Mobile Banking App taking advantages of lovley Flutter Framework ❤️❤️❤️
+About Me 
+---
 
-<!--
-**ShahabShahab/ShahabShahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mobile developer with over 6 years of experience in developing high-quality, user-friendly mobile applications for Android and iOS platforms. I have a strong passion for mobile development, and I love to stay up-to-date with the latest technologies and trends in the industry.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Mobile Banking App taking advantages of lovley Flutter Framework ❤️❤️❤️
-- 🌱 I’m currently learning Flutter ❤️❤️❤️
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Android Native Development, Flutter Development, Gitting 😉
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Skills and Expertise
+---
+Flutter
+Android Development
+iOS Development
+Kotlin
+Java
+REST APIs
+Firebase
