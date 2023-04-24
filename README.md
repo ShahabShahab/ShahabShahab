@@ -1,7 +1,11 @@
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="80" height="80"/>
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="80" height="80"/>
+  </a> 
+  <a href="https://developer.android.com/studio" target="_blank"> 
   <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-original-wordmark.svg" alt="Android Logo" width="80" height="80"/>
+  </a>
 </p>
 <h1 align="center">Hi there, I'm Shahab 👋</h1>
 <h3 align="center">A passionate Mobile Developer with over 6 years of experience</h3>
