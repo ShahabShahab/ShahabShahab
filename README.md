@@ -7,8 +7,13 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-original-wordmark.svg" alt="Android Logo" width="80" height="80"/>
   </a>
 </p>
-<h1 align="center">Hi there, I'm Shahab 👋</h1>
-<h3 align="center">A passionate Mobile Developer with over 6 years of experience</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shahab+Golpaiegan;+Welcome+to+My+Profile!;Over+6+years+of+Mobile+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+
+
+<!-- <h1 align="center">Hi there, I'm Shahab 👋</h1> -->
+<!-- <h3 align="center">A passionate Mobile Developer with over 6 years of experience</h3> -->
 
 🔭 I’m currently working on open-source FlashCards App in Flutter
 
