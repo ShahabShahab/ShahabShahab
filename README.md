@@ -9,7 +9,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1600&lines=Hi+there+👋,+I+am+Shahab+Golpaiegan;+Welcome+to+My+Profile!;Over+6+years+of+Mobile+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shahab+Golpaiegan;+Welcome+to+My+Profile!;Over+6+years+of+Mobile+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 
 <!-- <h1 align="center">Hi there, I'm Shahab 👋</h1> -->
