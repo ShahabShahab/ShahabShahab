@@ -1,3 +1,4 @@
+![](assets/Bottom_up.svg)
 
 <p align="center">
   <a href="https://flutter.dev/" target="_blank"> 
@@ -43,6 +44,5 @@ Connect with me:
     <img align="center" src="https://www.thebusinessdesk.com/_files/images/sep_21/630-6308222_image-transparent-twitter-icon-png-png-download.png" alt="[YOUR NAME]" height="40" width="40" />
   </a>
 </p>
-Feel free to use this as a template for your own ReadMe file!
 
-I am improving it by ChatGPT.
+![](assets/Bottom_down.svg)
