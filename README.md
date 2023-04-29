@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=182EFFF3&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I+am+Shahab+Golpaiergan)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=187BFFF3&vCenter=true&width=1000&lines=More+than+6+years+in+Mobile+Development+Experience;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=187BFFF3&vCenter=true&width=1000&lines=More+than+6+years+Experience+in+Mobile+Development;Ask+me+about+App+Architecture+and+App+Testing;Always+learning+new+things;)](https://git.io/typing-svg)
 
 
 <!-- <h1 align="center">Hi there, I'm Shahab 👋</h1> -->
