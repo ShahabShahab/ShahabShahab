@@ -37,9 +37,6 @@ Connect with me:
   <a href="https://www.linkedin.com/in/shahabgolpaiegan/" target="blank">
     <img align="center" src="https://cdn3.iconfinder.com/data/icons/sociocons/256/linkedin-sociocon.png" alt="[YOUR NAME]" height="40" width="40" />
   </a>
-  <a href="https://twitter.com/everythingsdev" target="blank">
-    <img align="center" src="https://www.thebusinessdesk.com/_files/images/sep_21/630-6308222_image-transparent-twitter-icon-png-png-download.png" alt="[YOUR NAME]" height="40" width="40" />
-  </a>
 </p>
 
 ![](assets/Bottom_down.svg)
