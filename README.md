@@ -17,7 +17,7 @@
 <!-- <h1 align="center">Hi there, I'm Shahab 👋</h1> -->
 <!-- <h3 align="center">A passionate Mobile Developer with over 9 years of experience</h3> -->
 
-  - Flutter app development or architecture questions
+  - Flutter and Android app development or architecture questions
   - Code review or debugging
   - Currently, working on Spring Boot backend implementation: checkout my learning page: https://shahabshahab.github.io/java/index.html
   - Any other development tasks
