@@ -17,13 +17,11 @@
 <!-- <h1 align="center">Hi there, I'm Shahab 👋</h1> -->
 <!-- <h3 align="center">A passionate Mobile Developer with over 9 years of experience</h3> -->
 
-🔭 I’m currently working on open-source FlashCards App in Flutter
-
-🌱 I’m currently learning deep concepts in Flutter
-
-💬 Ask me about Flutter and Mobile App Architectur
-
-⚡ Love playing Santoor musical instrument
+  - Flutter app development or architecture questions
+  - Spring Boot backend implementation
+  - Integration between Flutter frontend and Spring Boot backend
+  - Code review or debugging
+  - Any other development tasks
 
 Languages and Tools:
 <p align="left"> 
