@@ -18,9 +18,8 @@
 <!-- <h3 align="center">A passionate Mobile Developer with over 9 years of experience</h3> -->
 
   - Flutter app development or architecture questions
-  - Spring Boot backend implementation
-  - Integration between Flutter frontend and Spring Boot backend
   - Code review or debugging
+  - Currently, working on Spring Boot backend implementation: checkout my learning page: https://shahabshahab.github.io/java/index.html
   - Any other development tasks
 
 Languages and Tools:
